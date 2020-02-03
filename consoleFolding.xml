@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at android.os.Handler.dispatchMessage(Handler.java:107)" />
+        <option value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.github.florent37.sample.singledateandtimepicker/com.github.florent37.sample.singledateandtimepicker.SingleDatePickerMainActivity}: android.view.InflateException: Binary XML file line #18 in com.github.florent37.sample.singledateandtimepicker:layout/single_date_picker_activity_main: Binary XML file line #18 in com.github.florent37.sample.singledateandtimepicker:layout/single_date_picker_activity_main: Error inflating class com.github.florent37.singledateandtimepicker.SingleDateAndTimePicker" />
+      </list>
+    </option>
+  </component>
+</application>
