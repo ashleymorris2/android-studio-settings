@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/udacity/android-kotlin-animation-property-animation" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ashleymorris2/my-fasting-tracker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\ashleymorris\StudioProjects" />
+    <option name="cloneParentDir" value="C:\" />
   </component>
 </application>
