@@ -4,7 +4,7 @@
     <property name="created">2020-02-29T13:46:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2020-03-07T12:24:53</property>
+    <property name="modified">2020-03-07T12:51:31</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -30,7 +30,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="403e41" />
-    <option name="FILESTATUS_ADDED" value="a7700" />
+    <option name="FILESTATUS_ADDED" value="2f7732" />
     <option name="FILESTATUS_COPIED" value="a7700" />
     <option name="FILESTATUS_DELETED" value="616161" />
     <option name="FILESTATUS_HIJACKED" value="b28c00" />
@@ -42,7 +42,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="7503dc" />
-    <option name="FILESTATUS_MODIFIED" value="32a053" />
+    <option name="FILESTATUS_MODIFIED" value="2f7732" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3264b4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8aa4c8" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
